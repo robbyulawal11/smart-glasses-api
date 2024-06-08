@@ -1,0 +1,32 @@
+[
+    {
+        "temperature": 22.5,
+        "humidity": 45.2,
+        "timestamp": "2024-06-08T12:00:00Z"
+    },
+    {
+        "temperature": 23.0,
+        "humidity": 46.0,
+        "timestamp": "2024-06-08T12:10:00Z"
+    },
+    {
+        "temperature": 23.3,
+        "humidity": 44.8,
+        "timestamp": "2024-06-08T12:20:00Z"
+    },
+    {
+        "temperature": 22.8,
+        "humidity": 47.1,
+        "timestamp": "2024-06-08T12:30:00Z"
+    },
+    {
+        "temperature": 22.6,
+        "humidity": 46.5,
+        "timestamp": "2024-06-08T12:40:00Z"
+    },
+    {
+        "temperature": 5000,
+        "humidity": 4500,
+        "timestamp": "2024-06-08T12:00:00Z"
+    }
+]
